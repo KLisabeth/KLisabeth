@@ -12,8 +12,8 @@ export class Issues{
   }
   display(){
     const container = document.createElement("div");
-    container.innerHTML = '';
     const h1 = document.createElement('h1');
+    h1.style.color = '#d0e2b3'
     h1.innerHTML = `My Total Issues on GitHub: ${this.issues}`
 
     container.appendChild(h1);

@@ -31,6 +31,7 @@ export class Profile {
     const container = document.createElement("div");
     container.innerHTML = '';
     const h2 = document.createElement('h2');
+    h2.style.fontSize = '30px'
     h2.innerHTML = ` ${this.name} <br/>`
 
     const a = document.createElement('a');
