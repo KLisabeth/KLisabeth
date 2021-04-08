@@ -1,4 +1,4 @@
-
+![](https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif)
 
 # Hello, I'm Kateryna Lisabeth,
 
@@ -11,7 +11,7 @@
 -  Sass
 -  Bootstrap
 -  JavaScript (including ES6+)
--  ReactJS
+-  ReactJS(React hooks)
 -  Node.js
 -  Express
 -  MongoDB
@@ -19,13 +19,12 @@
 -  Git
 -  Postman
 
-##  About Me 👱‍♀️
+##  About Me 
 
--  🏡 &nbsp; I'm from Ukraine.
--  🎓 &nbsp; I graduated as a web developer at [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium).
--  💼 &nbsp; Looking for job or internship opportunities.
+-  🏡 &nbsp; I'm from Ukraine & live in Belgium.
+-  🎓 &nbsp; Graduated as a Full-Stack Web Developer at [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium).
+-  
+-  Highly motivated reliable and results-oriented young web developer, who loves programming and enjoy solving challenges. Knowledgeable in user interface, testing, and debugging processes. Can manage front-end and back-end development . Able to self-organize during independent projects, as well as collaborate in a team setting. Available to start immediately. 
 
-
-<br/>
 
 
