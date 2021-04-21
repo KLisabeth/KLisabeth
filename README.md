@@ -47,7 +47,7 @@
 -  ![Postman](https://img.shields.io/badge/-Postman-E34F26?style=flat&logo=Postman&logoColor=fff)&nbsp; Postman
 -  ![Heroku](https://img.shields.io/badge/-Heroku-563D7C?style=flat&logo=Heroku&logoColor=fff)&nbsp; Heroku
 
-## Design programmes
+## Design programs :
 -   ![PS](https://img.shields.io/badge/-PS-031a3d?style=flat&logo=Photoshop&logoColor=0e5cd1)&nbsp; PhotoShop
 -   ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=f715e4)&nbsp; Figma
 -   ![Canva](https://img.shields.io/badge/-Canva-06e8f0?style=flat&logo=Canva&logoColor=fff)&nbsp; Canva
