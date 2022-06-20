@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klisabeth&show_icons=true&theme=algolia)
 
-//![](https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif)
+
 
 # Hello, I'm Kateryna Lisabeth
 
