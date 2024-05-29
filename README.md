@@ -1,6 +1,6 @@
 ![Klisabeth GitHub stats](https://github-readme-stats.vercel.app/api?username=klisabeth&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klisabeth&layout=donut)](https://github.com/klisabeth/github-readme-stats)
 
 # Hello, I'm Kateryna Lisabeth
 
