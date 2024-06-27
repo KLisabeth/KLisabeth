@@ -10,7 +10,7 @@
  > Highly motivated, young web developer and passionate about programming and enjoy solving challenges, based in Belgium.
 
 ## Contact :
--  🌐 &nbsp; [My Portfolio](https://mijn-portfolio-website.herokuapp.com/)
+
 ## Social [![GitHub Follow Badge](https://img.shields.io/github/followers/NisanurBulut?label=follow&style=social)](https://github.com/KLisabeth)  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisanur-bulut/)](https://www.linkedin.com/in/kateryna-lisabeth-48a8a093/)
 
 ##  About :
