@@ -7,7 +7,7 @@
 
 ## Status :
 
- > Highly motivated, Font-end developer, passionate about programming and challenge solving.
+ > Open for new challenges and opportunities.
 
 ## Social: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisanur-bulut/)](https://www.linkedin.com/in/kateryna-lisabeth-48a8a093/)
 
