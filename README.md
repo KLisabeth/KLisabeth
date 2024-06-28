@@ -9,9 +9,7 @@
 
  > Highly motivated, Font-end developer, passionate about programming and challenge solving.
 
-## Contact :
-
-## Social [![GitHub Follow Badge](https://img.shields.io/github/followers/NisanurBulut?label=follow&style=social)](https://github.com/KatieLisabeth)  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisanur-bulut/)](https://www.linkedin.com/in/kateryna-lisabeth-48a8a093/)
+## Social: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisanur-bulut/)](https://www.linkedin.com/in/kateryna-lisabeth-48a8a093/)
 
 ##  About :
 
@@ -47,4 +45,4 @@
 - Photography
 - Traveling
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=klisabeth)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=katielisabeth)
