@@ -7,7 +7,7 @@
 
 ## Status :
 
- > Highly motivated, young web developer and passionate about programming and enjoy solving challenges, based in Belgium.
+ > Highly motivated, Font-end developer, passionate about programming and challenge solving.
 
 ## Contact :
 
@@ -17,7 +17,8 @@
 
 -  🏡 &nbsp; I'm from Ukraine & live in Belgium.
 -  🎓 &nbsp; Graduated as a Full-Stack Web Developer at [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium).  
--  💁 &nbsp; Highly motivated reliable and results-oriented young web developer, who loves programming and enjoy solving challenges. Knowledgeable in user interface, testing, and debugging processes. Can manage front-end and back-end development . Able to self-organize during independent projects, as well as collaborate in a team setting. 
+-  💁 &nbsp; Highly motivated reliable and results-oriented web developer, who loves programming and enjoy solving challenges. Knowledgeable in user interface, testing, and debugging processes. Can manage front-end and back-end development . Able to self-organize during independent projects, as well as collaborate in a team setting.
+-  👩🏼‍💻 &nbsp; I volunteer my time as a coach at HYF Belgium, where I mentor aspiring developers, which further enriches my experience and passion for web development
 
 ## Skills :
 
