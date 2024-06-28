@@ -21,14 +21,12 @@
 
 ## Skills :
 
-- HTML/CSS skills.
-- Analytical skills.
-- Responsive design skills.
+
+- Analytical.
+- Responsive design.
 - Wireframing and UI prototyping.
 - Visual communication
-- JavaScript skills.
-- Interpersonal skills.
-- Testing and debugging skills.
+- Testing and debugging.
 - Back-end basics.
 - Search engine optimization.
 - UI/UX design
