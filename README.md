@@ -15,8 +15,8 @@
 
 -  🏡 &nbsp; I'm from Ukraine & live in Belgium.
 -  🎓 &nbsp; Graduated as a Full-Stack Web Developer at [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium).  
--  💁 &nbsp; Highly motivated reliable and results-oriented web developer, who loves programming and enjoy solving challenges. Knowledgeable in user interface, testing, and debugging processes. Can manage front-end and back-end development . Able to self-organize during independent projects, as well as collaborate in a team setting.
--  👩🏼‍💻 &nbsp; I volunteer my time as a coach at HYF Belgium, where I mentor aspiring developers, which further enriches my experience and passion for web development
+-  💁 &nbsp; Highly motivated, reliable, and results-oriented web developer, I have a deep passion for programming and enjoy tackling challenges. My expertise encompasses user interface design, testing, and debugging processes. I am proficient in managing front-end development with solid understanding of back-end. Whether working independently or as part of a team, I am adept at self-organization and effective collaboration.
+-  👩🏼‍💻 &nbsp; I volunteer as a coach at HYF Belgium, where I mentor aspiring developers, which further enriches my experience and passion for web development
 
 ## Skills :
 
